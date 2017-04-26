@@ -1,2 +1,1 @@
-# Bio
-Used as a repository for Bio created in class
+# sajkani.github.io
